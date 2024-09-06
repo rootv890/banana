@@ -1,0 +1,11 @@
+Model Information:
+* title:	SM Fruits Banana One
+* source:	https://sketchfab.com/3d-models/sm-fruits-banana-one-47f73a9405c344af90b5412bad9f4f12
+* author:	gansaibow (https://sketchfab.com/gansaibow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SM Fruits Banana One" (https://sketchfab.com/3d-models/sm-fruits-banana-one-47f73a9405c344af90b5412bad9f4f12) by gansaibow (https://sketchfab.com/gansaibow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
